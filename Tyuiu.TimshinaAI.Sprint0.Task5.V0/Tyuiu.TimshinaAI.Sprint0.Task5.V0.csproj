@@ -5,6 +5,11 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>Tyuiu.TishinaAI.Sprint0.Task5.V0</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Tyuiu.TimshinaAI.Sprint0.Task5.V0.Lib\Tyuiu.TimshinaAI.Sprint0.Task5.V0.Lib.csproj" />
+    </ItemGroup>
 
 </Project>
